@@ -1,1 +1,6 @@
-hello
+tags required
+1.text<h1>,<h2>,<h3>,<h4>,<h5>,<h6>,<h7>,<p>,<br>,<hr>,<b>,<i>,<u>,<sup>,<sub>
+2. images :<div>,,<h1>,<img>
+3.audio:<div>,<h1>,<audio>,<object>
+4.video:<div>,<h1>,<video>,<object>,<embed>,<iframe>
+5
